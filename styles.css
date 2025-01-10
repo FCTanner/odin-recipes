@@ -1,0 +1,30 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p {
+    max-width: 600px;
+    text-wrap: block;
+}
+
+li {
+    max-width: 600px;
+}
+
+h1 {
+    font-size: 2.5em;;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+#home-title {
+    background-color: rgba(217, 236, 236, 0.966);
+}
+
+.home-link {
+    font-size: 1.5em;
+    padding-top: 1000px;
+    margin-top: 1000px;
+}
